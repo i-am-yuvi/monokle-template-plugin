@@ -1,0 +1,15 @@
+{
+	"name": "Templates plugin",
+	"description": "Custom templates plugin",
+	"version": "1.0.0",
+	"author": "Yuvraj Chhetri",
+	"repository": "https://github.com/i-am-yuvi/monokle-template-plugin",
+	"monoklePlugin": {
+		"id": "com.github.kunal-kushwaha.plugin.templates",
+		"helpUrl": "https://github.com/i-am-yuvi/monokle-template-plugin",
+		"modules": [{
+			"type": "template",
+			"path": "basic-pod-template"
+		}]
+	}
+}
